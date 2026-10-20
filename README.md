@@ -1,5 +1,7 @@
 # G.ba Pulse
 
+G.ba Pulse is open-source software released under the MIT License.
+
 **Source update: v0.1.2 — result-decoding and request-timeout fix**
 
 A small Windows desktop companion for Gamerz.ba, built with Python and PySide6. The visual direction uses the requested near-black background (`#060911`), orange accent (`#fb9524`), and restrained lime detail (`#8cbf2b`).
